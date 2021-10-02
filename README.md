@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="justify">
-Didactic demonstration Creating Components and passing parameters through them. Credits for the Digital Innovation One JavaScript ES6 Advanced module.
+Didactic demonstration Creating Components and passing parameters through them. Credits for the Digital Innovation One ReactJS Introduction.
 </h3>
 
 <br>
